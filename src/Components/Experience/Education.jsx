@@ -21,18 +21,18 @@ const Education = () => {
             <TimelineIcon className="p-0">
               <Avatar
                 size="lg"
-                src="https://banner2.cleanpng.com/20180509/lqq/kisspng-university-of-mumbai-alkesh-dinesh-mody-institute-5af2a63dc98cd9.9610869015258517098256.jpg"
+                src="https://promolkwebsite.blob.core.windows.net/profiles/promo.lk-promo-48c2b1174c5544e3a8554b2b5fda53b3.jpg"
                 alt="user 1"
               />
             </TimelineIcon>
             <Typography variant="h5" className="text-blue-900">
-              Mumbai University
+              Srilanka Institute of Information Technology (SLIIT)
             </Typography>
           </TimelineHeader>
           <TimelineBody className="pb-14">
             <Typography color="white" className="font-semibold text-black">
-            Bachelor of Science , Computer Science 
-            <br /> 2022 - Present
+            Bachelor of Science Information Technology (BSc IT)
+            <br /> 2021 - Present
             </Typography>
           </TimelineBody>
         </TimelineItem>
@@ -46,17 +46,17 @@ const Education = () => {
             <TimelineIcon className="p-0">
               <Avatar
                 size="lg"
-                src="https://vivacollege.org/images/vivalogon.png"
+                src="https://th.bing.com/th/id/OIP.ntFxdOmz1SaKA7fVMAlB5QHaFR?rs=1&pid=ImgDetMain"
                 alt="user 2"
               />
             </TimelineIcon>
             <Typography variant="h5" className="text-blue-900">
-              Viva College
+              Collage Of Technology Kurunegala
             </Typography>
           </TimelineHeader>
           <TimelineBody className="pb-8">
             <Typography color="white" className="font-semibold text-black">
-              Higher Secondary School, Science <br /> 2020 - 2022
+              Information & Communication Technology Nvq L-04<br /> 2020 - 2021
             </Typography>
           </TimelineBody>
         </TimelineItem>
@@ -70,17 +70,17 @@ const Education = () => {
             <TimelineIcon className="p-0">
               <Avatar
                 size="lg"
-                src="https://vidyavaridhividyalaya.in/img/logo.png"
+                src="https://yt3.googleusercontent.com/ytc/AGIKgqPLxlXrYiXP7QBXO1dEprfvXA7we3-e-XIyk-Qb=s900-c-k-c0x00ffffff-no-rj"
                 alt="user 2"
               />
             </TimelineIcon>
             <Typography variant="h5" className="text-blue-900">
-              Vidya Varidhi Vidyalaya
+              The English Bank 
             </Typography>
           </TimelineHeader>
           <TimelineBody className="pb-8">
             <Typography color="white" className="font-semibold text-black">
-            Secondary School Certificate (SSC)  <br /> 2019 - 2020
+            Complete Spoken English certificate Cource  <br /> 2019 - 2020
             </Typography>
           </TimelineBody>
         </TimelineItem>

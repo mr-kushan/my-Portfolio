@@ -25,17 +25,18 @@ const WorkExp = () => {
             </TimelineIcon>
             <div className="flex flex-col  text-blue-900">
               <Typography variant="h5" className="font-bold">
-                C2P Ventures
+                Bank Of Ceylon (BOC Head Office)
               </Typography>
               <Typography className="font-bold text-gray-900 my-2" color="white">
-                Full Stack Web Developer Intern <br /> Aug 2023 - Present
+                Ui/Ux Engineer & innvation Reasearcher Intern <br /> Aug 2023 - Present
               </Typography>
             </div>
           </TimelineHeader>
           <TimelineBody className="pb-8">
             <ul color="gary" className="list-disc font-sans ml-5 text-black text-base">
-              <li>Worked on various projects using MERN stack.</li>
+              <li>Worked on various projects using  Figma &R eact.</li>
               <li>Developed Application Using Web framework.</li>
+              <li>Create Design & Prototype Using Figma.</li>
             </ul>
           </TimelineBody>
         </TimelineItem>
