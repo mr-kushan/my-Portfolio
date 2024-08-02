@@ -16,7 +16,7 @@ const Hero = () => {
           </span>
         </p>
         <p className="text-xl font-bold relative uppercase text-black">
-          Full-Stack Developer
+        Fullstack Developer   &  Ui / UX Engineer
         </p>
         <p className="text-base font-medium w-10/12 md:w-2/3 relative text-black">
         Fueled by an unwavering passion for coding, I thrive on transforming ideas into elegant solutions. With a love for problem-solving and an eye for detail, each project is a canvas where innovation meets precision. As a developer, my journey is defined by the thrill of bringing ideas to life in the dynamic world of technology.

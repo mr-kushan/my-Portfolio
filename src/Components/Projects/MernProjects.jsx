@@ -10,7 +10,7 @@ const MernProjects = () => {
       {MernProjectData.map(({ title, img, live, github, techstack }, index) => (
         <div
           key={index}
-          className="flex flex-col w-96 gap-2  drop-shadow-xl dark:bg-grey-800 rounded-lg p-4"
+          className="flex flex-col w-60 gap-2  drop-shadow-xl dark:bg-grey-800 rounded-lg p-4"
         >
           <div className="relative group rounded-lg bg-violet-50">
             <img loading="lazy"

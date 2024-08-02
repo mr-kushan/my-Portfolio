@@ -49,7 +49,7 @@ const About = () => {
               </h1>
             </div>
             <div className="text-blue-900 text-3xl md:text-5xl font-bold my-4 md:my-8 text-center">
-              <h2>Fullstack Developer</h2>
+              <h2>Fullstack Developer || Ui / UX Engineer</h2>
             </div>
             <div className="text-base font-medium  relative text-black w-10/12 md:w-3/3">
               <p>
@@ -68,7 +68,7 @@ const About = () => {
               </Button>
 
               <Link
-                to="https://drive.google.com/file/d/1kOtRyvNbbjseRcsqVQUaY91NgojY3eAQ/view?usp=sharing"
+                to="https://drive.google.com/file/d/1WdMagVrmOS7KyyTTmTwqBTci6K_N30P-/view?usp=sharing"
                 target="_blank"
               >
                 <Button
