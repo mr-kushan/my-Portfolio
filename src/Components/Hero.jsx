@@ -46,6 +46,19 @@ const Hero = () => {
               Resume
             </Button>
           </Link>
+          <Link
+            to="https://drive.google.com/file/d/1iw9yJbbFeitFxrI2BPTeBCvhqqpRrSx7/view?usp=sharing"
+            target="_blank"
+          >
+            <Button
+              variant="gradient"
+              color="light-blue"
+              className="flex gap-2 items-center"
+            >
+              <MdOutlineDocumentScanner className="text-white text-lg" />
+              Resume V.II
+            </Button>
+          </Link>
         </div>
       </div>
       <div>
